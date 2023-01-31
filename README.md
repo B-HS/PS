@@ -1,2 +1,5 @@
-# BACKJOON
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+재활용 레포
+https://www.acmicpc.net/step
+ㄴ 8단계까지는 하루에 한단계, 그 이후로는 되는 곳까지 
+ㄴ cpp로 밀려했으나 재활겸 파이썬이 다시 재밌어보임
+ㄴ 막히면 블로그에 게시글 + 여기 링크
