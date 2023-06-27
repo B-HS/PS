@@ -25,5 +25,3 @@ for _ in range(howmany):
     
     for i in is_target:
         print(binary_search(target, i))
-
-
