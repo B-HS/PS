@@ -1,7 +1,3 @@
 # PS 재활 레포
-### https://www.acmicpc.net/step
-- 목표 : 29단계
-- 세부목표 : 7월 말까지 최소 17단계
-- 현재 : 11단계 재귀 풀이 중
-- cpp로 밀려했으나 재활겸 파이썬이 다시 재밌어보임
-- 막히면 블로그에 게시글 + 여기 링크
+- https://www.acmicpc.net/user/nannananaswa
+- 커밋은 하고싶고 막상 만들 것이 없을때 심심풀이로 풀기
